@@ -15,7 +15,7 @@ function App() {
       <Produtos />
       <Lancamentos />
       <Banner 
-      imagem="./banner2.png" alt="Banner inicial" />
+      imagem="./banner2.png" alt="Banner inicial" children="NOVIDADES PARA VOCÊ"/>
       <Footer/>
     </>
   );
